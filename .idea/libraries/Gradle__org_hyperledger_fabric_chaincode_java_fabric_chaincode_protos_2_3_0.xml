@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hyperledger.fabric-chaincode-java:fabric-chaincode-protos:2.3.0">
+    <CLASSES>
+      <root url="jar://D:/library/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-protos/2.3.0/6fefcd45f619abe90fde6e0e4eb29684d383a9a3/fabric-chaincode-protos-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/library/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-protos/2.3.0/af61bd9aabd9deceac913483fb7f133d3c9be5b/fabric-chaincode-protos-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
